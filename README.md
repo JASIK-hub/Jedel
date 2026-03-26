@@ -1,5 +1,7 @@
 # Jedel Backend
 
+<img width="1715" height="953" alt="diagram" src="https://github.com/user-attachments/assets/9a4f14d3-2e03-46f9-bb41-df12ee45f07c" />
+
 Backend for a realtime on-demand service (Uber-like system for workers).
 
 Inspired by Yandex Taxi and Uber systems.
