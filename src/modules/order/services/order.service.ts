@@ -2,7 +2,7 @@ import { Injectable, NotFoundException } from '@nestjs/common';
 import { OrderStatus } from '../enums/order-status.enum';
 
 @Injectable()
-export class OrdersService {
+export class OrderService {
     private orders: { id: number; status: OrderStatus }[] = [];
 
     private findOrder(id:number){
